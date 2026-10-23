@@ -1,0 +1,5 @@
+date,from,to,price_chf,ticket_type,class,source
+2026-09-01,Rotkreuz,Luzern,10.40,single,2nd,example
+2026-09-01,Luzern,Rotkreuz,10.40,single,2nd,example
+2026-09-05,Rotkreuz,Zug,7.20,single,2nd,example
+2026-09-12,Rotkreuz,Zürich HB,23.00,single,2nd,example

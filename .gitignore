@@ -1,0 +1,19 @@
+# IntelliJ IDEA (personal editor settings)
+.idea/
+*.iml
+out/
+
+# Build output (Maven)
+target/
+
+# Java
+*.class
+*.log
+hs_err_pid*
+
+# macOS
+.DS_Store
+
+# Your real travel data stays private: only the example file goes on GitHub
+data/*
+!data/example-trips.csv
