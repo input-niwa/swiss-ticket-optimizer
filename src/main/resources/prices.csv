@@ -1,0 +1,70 @@
+item,price_chf,valid_for,source_link,date_checked
+
+                               -- Yearly passes --
+Half-fare card adult, 190, 1 year, https://www.sbb.ch/en/offers/half-fare-travelcard, 30/10/2026
+Half-fare card youth, 120, 1 year, https://www.sbb.ch/en/offers/half-fare-travelcard, 30/10/2026
+GA 1st class adult, 6520, 1 year, https://www.sbb.ch/en/offers/ga-travelcard, 30/10/2026
+GA 2nd class adult, 3995, 1 year, https://www.sbb.ch/en/offers/ga-travelcard, 30/10/2026
+GA 1st class 25 years old, 5670, 1 year, https://www.sbb.ch/en/offers/ga-travelcard, 30/10/2026
+GA 2nd class 25 years old, 3495, 1 year, https://www.sbb.ch/en/offers/ga-travelcard, 30/10/2026
+GA 1st class seniors, 4950, 1 year, https://www.sbb.ch/en/offers/ga-travelcard, 30/10/2026
+GA 2nd class seniors, 3040, 1 year, https://www.sbb.ch/en/offers/ga-travelcard, 30/10/2026
+GA 1st class disabled persons, 4120, 1 year, https://www.sbb.ch/en/offers/ga-travelcard, 30/10/2026
+GA 2nd class disabled persons, 2600, 1 year, https://www.sbb.ch/en/offers/ga-travelcard, 30/10/2026
+GA 1st class children, 2850, 1 year, https://www.sbb.ch/en/offers/ga-travelcard, 30/10/2026
+GA 2nd class children, 1720, 1 year, https://www.sbb.ch/en/offers/ga-travelcard, 30/10/2026
+GA 1st class youth, 4450, 1 year, https://www.sbb.ch/en/offers/ga-travelcard, 30/10/2026
+GA 2nd class youth, 2780, 1 year, https://www.sbb.ch/en/offers/ga-travelcard, 30/10/2026
+Night GA youth, 99, 1 year, https://www.sbb.ch/en/offers/ga-travelcard, 30/10/2026
+GA 1st class duos, 4450, 1 year, https://www.sbb.ch/en/offers/ga-travelcard, 30/10/2026
+GA 2nd class duos, 2860, 1 year, https://www.sbb.ch/en/offers/ga-travelcard, 30/10/2026
+GA 1st class familia children, 2850, 1 year, https://www.sbb.ch/en/offers/ga-travelcard, 30/10/2026
+GA 2nd class familia children, 710, 1 year, https://www.sbb.ch/en/offers/ga-travelcard, 30/10/2026
+GA 1st class familia youth, 2880, 1 year, https://www.sbb.ch/en/offers/ga-travelcard, 30/10/2026
+GA 2nd class familia youth, 970, 1 year, https://www.sbb.ch/en/offers/ga-travelcard, 30/10/2026
+GA 1st class familia adults, 3590, 1 year, https://www.sbb.ch/en/offers/ga-travelcard, 30/10/2026
+GA 2nd class familia adults, 2290, 1 year, https://www.sbb.ch/en/offers/ga-travelcard, 30/10/2026
+
+
+
+
+
+
+                               -- Day passes --
+Day pass Rotkreuz-Luzern 2nd class, 20.80, 1 day, SBB ticket machine Rotkreuz, 30/10/2026
+Day pass Rotkreuz-Zug 2nd class, 12.00, 1 day, SBB ticket machine Rotkreuz, 30/10/2026
+Day pass Rotkreuz-Zürich HB 2nd class, 46.00, 1 day, SBB ticket machine Rotkreuz, 30/10/2026
+
+                               -- Half Fare Travelcard PLUS (deposit / bonus / total credit) --
+Half-fare PLUS 1000 adult deposit, 800, 1 year credit, SBB website Half Fare Travelcard PLUS page, 31/10/2026
+Half-fare PLUS 1000 adult bonus, 200, 1 year credit, SBB website Half Fare Travelcard PLUS page, 31/10/2026
+Half-fare PLUS 2000 adult deposit, 1500, 1 year credit, SBB website Half Fare Travelcard PLUS page, 31/10/2026
+Half-fare PLUS 2000 adult bonus, 500, 1 year credit, SBB website Half Fare Travelcard PLUS page, 31/10/2026
+Half-fare PLUS 3000 adult deposit, 2100, 1 year credit, SBB website Half Fare Travelcard PLUS page, 31/10/2026
+Half-fare PLUS 3000 adult bonus, 900, 1 year credit, SBB website Half Fare Travelcard PLUS page, 31/10/2026
+Half-fare PLUS 1000 youth deposit, 600, 1 year credit, SBB website Half Fare Travelcard PLUS page, 31/10/2026
+Half-fare PLUS 1000 youth bonus, 400, 1 year credit, SBB website Half Fare Travelcard PLUS page, 31/10/2026
+Half-fare PLUS 2000 youth deposit, 1125, 1 year credit, SBB website Half Fare Travelcard PLUS page, 31/10/2026
+Half-fare PLUS 2000 youth bonus, 875, 1 year credit, SBB website Half Fare Travelcard PLUS page, 31/10/2026
+Half-fare PLUS 3000 youth deposit, 1575, 1 year credit, SBB website Half Fare Travelcard PLUS page, 31/10/2026
+Half-fare PLUS 3000 youth bonus, 1425, 1 year credit, SBB website Half Fare Travelcard PLUS page, 31/10/2026
+
+                               -- Day passes (full fare, 2nd class) --
+Day pass Rotkreuz-Luzern 2nd class, 20.80, 1 day, SBB ticket machine Rotkreuz, 30/10/2026
+Day pass Rotkreuz-Zug 2nd class, 12.00, 1 day, SBB ticket machine Rotkreuz, 30/10/2026
+Day pass Rotkreuz-Zürich HB 2nd class, 46.00, 1 day, SBB ticket machine Rotkreuz, 30/10/2026
+
+                               -- Passepartout 4 zones (Rotkreuz-Luzern), 2nd class --
+Passepartout single 4 zones adult, 10.40, single trip, Passepartout brochure 2025-26 (passepartout.ch), 31/10/2026
+Passepartout single 4 zones half-fare, 5.20, single trip, Passepartout brochure 2025-26 (passepartout.ch), 31/10/2026
+Passepartout day pass 4 zones half-fare, 10.40, 1 day, Passepartout brochure 2025-26 (passepartout.ch), 31/10/2026
+Passepartout 6 trips 4 zones adult, 59.40, 6 trips, Passepartout brochure 2025-26 (passepartout.ch), 31/10/2026
+Passepartout 6 trips 4 zones half-fare, 29.70, 6 trips, Passepartout brochure 2025-26 (passepartout.ch), 31/10/2026
+Passepartout 6 day passes 4 zones adult, 118.80, 6 days, Passepartout brochure 2025-26 (passepartout.ch), 31/10/2026
+Passepartout 6 day passes 4 zones half-fare, 59.40, 6 days, Passepartout brochure 2025-26 (passepartout.ch), 31/10/2026
+Passepartout monthly 4 zones youth, 119, 1 month, Passepartout brochure 2025-26 (passepartout.ch), 31/10/2026
+Passepartout monthly 4 zones adult, 163, 1 month, Passepartout brochure 2025-26 (passepartout.ch), 31/10/2026
+Passepartout yearly 4 zones youth, 1071, 1 year, Passepartout brochure 2025-26 (passepartout.ch), 31/10/2026
+Passepartout yearly 4 zones adult, 1467, 1 year, Passepartout brochure 2025-26 (passepartout.ch), 31/10/2026
+Passepartout FlexiAbo 100 days 4 zones youth, 643, 100 days in 1 year, Passepartout brochure 2025-26 (passepartout.ch), 31/10/2026
+Passepartout FlexiAbo 100 days 4 zones adult, 881, 100 days in 1 year, Passepartout brochure 2025-26 (passepartout.ch), 31/10/2026
