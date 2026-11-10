@@ -48,3 +48,15 @@ Rotkreuz - Luzern / Luzern - Rotkreuz
 - Cost per trip: 0 everywhere in Switzerland
 - Covers: all my routes (Luzern, Zug, Zürich) plus almost all trains, buses and boats in Switzerland
 - Catch: very expensive up front, about CHF 232 per month. Only worth it if I travel a lot, especially long trips. Youth price only until 25.
+
+## Example: October
+- Normal tickets: 254 (10 Luzern day passes = 208, 2 Zürich singles = 46)
+- Half-Fare youth: 137 (card 10 per month + half of 254 = 127)
+- Passepartout monthly youth: 165 (pass 119 + Zürich 46)
+- GA youth: 231.70 (2780 / 12, covers everything)
+- Cheapest: Half-Fare, saves 117 compared to what I paid
+
+## Leaving-after-summer rule
+- Count every month from now until I leave after summer 2027
+- Skip the time I'm in Tanzania over Christmas (from 22 Dec)
+- Yearly cards cost the full year anyway; monthly passes only for months I'm here
