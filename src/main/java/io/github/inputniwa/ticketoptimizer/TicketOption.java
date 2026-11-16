@@ -1,5 +1,6 @@
 package io.github.inputniwa.ticketoptimizer;
 
+import java.time.YearMonth;
 import java.util.List;
 
 /**
@@ -14,6 +15,11 @@ public interface TicketOption {
 
     /** What the given month of trips would have cost with this option, in CHF. */
     double monthlyCost(List<Trip> tripsInMonth);
+
+    /** Whether this option can be bought for the given month. Most options: always. */
+    default boolean isAvailableIn(YearMonth month) {
+        return true;
+    }
 
     /** Adds up the normal ticket prices of some trips. */
     static double sumOfTickets(List<Trip> trips) {

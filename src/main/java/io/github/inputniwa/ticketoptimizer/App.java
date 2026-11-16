@@ -31,7 +31,8 @@ public class App {
                 new NormalTickets(),
                 new HalfFare(prices.get("Half-fare card youth")),
                 new PassepartoutMonthly(prices.get("Passepartout monthly 4 zones youth")),
-                new GeneralAbonnement(prices.get("GA 2nd class youth"))
+                new GeneralAbonnement(prices.get("GA 2nd class youth")),
+                new WinterTrialGa(prices.get("Winter trial GA youth 2nd class"))
         );
 
         // Sort trips into months (TreeMap keeps the months in order)
@@ -47,6 +48,9 @@ public class App {
             TicketOption cheapest = null;
             double cheapestCost = Double.MAX_VALUE;
             for (TicketOption option : options) {
+                if (!option.isAvailableIn(month.getKey())) {
+                    continue; // e.g. the Winter trial GA outside November/December
+                }
                 double cost = option.monthlyCost(month.getValue());
                 IO.println(String.format("  %-22s CHF %8.2f", option.name(), cost));
                 if (cost < cheapestCost) {
